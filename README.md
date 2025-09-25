@@ -1,7 +1,9 @@
 # 💬 Chat App (Node.js + Socket.io)
 
-A real-time chat application built using **Node.js**, **Express**, and **Socket.io**.  
-This project was built while learning Node.js and covers the fundamentals of working with WebSockets.
+
+A **real-time chat application** built using **Node.js**, **Express**, and **Socket.io**.  
+This is a **temporary chat app** – meaning messages and users are not saved anywhere.  
+Once the browser is closed or refreshed, the chat history disappears.
 
 ---
 
@@ -12,6 +14,8 @@ This project was built while learning Node.js and covers the fundamentals of wor
 - Share location with other users
 - Auto-scrolling chat window
 - Basic styling with CSS
+- ❌ No database → chat is **temporary** (history is lost on refresh/close)
+
 
 ---
 
